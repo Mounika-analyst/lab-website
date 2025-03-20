@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Neurodegenerative Disease Research:
+
+We develop and apply network-based methods, including single-cell gene regulatory network analyses, to investigate how cellular regulation differs between healthy and diseased states. By examining patient- and cell-specific regulatory interactions, we aim to pinpoint how changes in DNA repair, metabolic function, inflammatory pathways, and other core processes contribute to the onset and progression of neurodegenerative disorders. Our lab is also committed to leveraging explainable AI techniques to ensure that computational findings can be meaningfully interpreted in a biological and clinical context.
 
 {% include tags.html tags="publication, resource, website" %}
 
