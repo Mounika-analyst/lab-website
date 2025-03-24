@@ -1,20 +1,20 @@
 # site properties and page defaults
-title: Mounika-analystDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: POLSTER LAB
 subtitle: 
-description: 
+description: At the Polster Lab, we use systems medicine approaches to understand complex diseases and advance precision healthcare. Our research integrates multi-omics data (genomic, transcriptomic, epigenomic) with computational modeling and machine learning to uncover the molecular mechanisms that drive disorders such as Alzheimer’s disease (AD) and Parkinson’s disease (PD), as well as to explore strategies for promoting healthy aging.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Mounika-analystDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: annikka [at] chalmers.se
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: Mounika-analystDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: Mounika-analystDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: Mounika-analystDESCRIPTION=An engaging 1-3 sentence description of your lab.
-
+  github: 
+  twitter: 
+  youtube: 
+  
 ### jekyll settings
 
 # front matter defaults
