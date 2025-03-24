@@ -24,7 +24,7 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.chalmers.se/en/persons/annikka/?tab=1](https://www.chalmers.se/en/)"
+  link=""
 %}
 
 {% include section.html %}
