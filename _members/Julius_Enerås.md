@@ -5,4 +5,5 @@ affiliation: Chalmers University
 
 ---
 Masters Student at Chalmers University
-ejulius [at] student.chalmers.se
+
+email: ejulius@student.chalmers.se
