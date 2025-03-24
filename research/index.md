@@ -21,18 +21,4 @@ Recognizing the heterogeneity of complex disorders, we focus on identifying nove
 
 Beyond disease-specific work, our lab develops quantitative frameworks to measure and monitor overall health at the population level. We explore how novel ageing metrics can inform public health initiatives, guide targeted screening, and refine our understanding of healthy aging. By combining large-scale cohort data with advanced analytics, we seek to outline strategies that not only delay disease onset but also extend healthspan.
 
-{% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
