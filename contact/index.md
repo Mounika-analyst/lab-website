@@ -24,7 +24,7 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[Chalmersgatan 4, 412 96 Göteborg](https://www.chalmers.se/)"
 %}
 
 {% include section.html %}
