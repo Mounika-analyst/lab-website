@@ -13,13 +13,3 @@ nav:
 {% include search-info.html %}
 
 {% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="teachings" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="teachings" filters="group: " style="small" %}
